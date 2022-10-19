@@ -1,0 +1,26 @@
+_repo: The-higher-education-of-women_69125
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Davies, Emily
+    gutenberg_agent_id: '55122'
+    url: http://www.gutenberg.org/2009/agents/55122
+description: ''
+gutenberg_issued: '2022-10-10'
+identifiers:
+  gutenberg: '69125'
+language: en
+pgterms:marc904: https://archive.org/details/highereducationo00daviuoft/page/n5/mode/2up
+pgterms:marc905: 20220802183444davies
+pgterms:marc906: '1866'
+pgterms:marc907: UK
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: UK :Alexander Strahan,1866.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The higher education of women
+url: http://www.gutenberg.org/ebooks/69125
